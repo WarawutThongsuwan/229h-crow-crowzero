@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Final.sln"
+    "dotnet.defaultSolution": "229h-crow-crowzero.sln"
 }
